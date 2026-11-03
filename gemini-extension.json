@@ -1,0 +1,10 @@
+{
+  "name": "pushbuild-data",
+  "version": "1.0.0",
+  "description": "410 public-data APIs via the Pushbuild MCP server: building permits, restaurant inspections, campaign finance, lobbying, local budgets, court cases, recalls, vessel and aircraft tracking, and open federal bids.",
+  "mcpServers": {
+    "pushbuild": {
+      "httpUrl": "https://api.pushbuild.com/mcp"
+    }
+  }
+}
